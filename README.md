@@ -8,12 +8,7 @@
                                                                                                                   
 <H2>Keshav_Agarwal</h2>
 
-<br>
-
-<h3>
-Aspiring Full-Stack Web Developer 💻, Aspiring Ethical Hacker, Android Developer, Interested in Cryptography, Content Writer, Founder Techentron OS.
-</h3> 
-
+<br> 
 <br>
 
 <H1 align=center ><b>Blogs_and_Articles</b></H1>

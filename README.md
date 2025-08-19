@@ -1,5 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=KenanGain&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Yet+another+Engineer;Full-Stack+Developer;AI+Engineer;" alt="Typing SVG" />
+</div>
 
 <table width="100%">
   <tr>

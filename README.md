@@ -3,12 +3,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Yet+another+Engineer;Full-Stack+Developer;AI+Engineer;" alt="Typing SVG" />
 </div>
 
-<a href="https://devkeshav.live/">devkeshav.live</a>
-<a href="https://portfolio.devkeshav.live/">portfolio.devkeshav.live</a>
-<a href="https://blog.devkeshav.live/">blog.devkeshav.live/</a>
-
-<br>
-
 <table width="100%">
   <tr>
     <td align="left" width="40%">
@@ -31,3 +25,7 @@
   </tr>
 </table>
 </div>
+<br>
+<a href="https://devkeshav.live/">devkeshav.live</a>
+<a href="https://portfolio.devkeshav.live/">portfolio.devkeshav.live</a>
+<a href="https://blog.devkeshav.live/">blog.devkeshav.live/</a>

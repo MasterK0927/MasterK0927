@@ -3,6 +3,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Yet+another+Engineer;Full-Stack+Developer;AI+Engineer;" alt="Typing SVG" />
 </div>
 
+<div>https://devkeshav.live/</div>
+<div>https://portfolio.devkeshav.live/</div>
+<div>https://blog.devkeshav.live/</div>
+
 <table width="100%">
   <tr>
     <td align="left" width="40%">
